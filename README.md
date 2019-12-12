@@ -2,6 +2,16 @@
 
 #### Part 1 基礎影像處理
 學習影像處理基礎，並熟悉 OpenCV 寫作方式以及如何前處理  
+- Day 01 : OpenCV 簡介 + 顯示圖片
+- Day 02 : Color presentation 介紹 (RGB, LAB, HSV)
+- Day 03 : 顏色相關的預處理 (改變亮度, 色差)
+- Day 04 : 以圖片為例做矩陣操作 (翻轉, 縮放, 平移)
+- Day 05 : 透過 OpenCV 做圖並顯示 (長方形, 圓形, 直線, 填色)
+- Day 06 : affine transformation 概念與實作
+- Day 07 : perspective transformation 概念與實作
+- Day 08 : Filter 操作 (Sobel edge detect, Gaussian Blur)
+- Day 09 : SIFT 介紹與實作 (feature extractor)
+- Day 10 : SIFT 其他應用 (keypoint matching)
 
 #### Part 2 電腦視覺深度學習基礎
 打好卷積神經網路的概念，並了解 CNN 各種代表性的經典模型  
