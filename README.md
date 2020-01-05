@@ -15,6 +15,18 @@
 
 #### Part 2 電腦視覺深度學習基礎
 打好卷積神經網路的概念，並了解 CNN 各種代表性的經典模型  
+- Day 11 : CNN分類器架構：卷積層
+- Day 12 : CNN分類器架構：步長、填充
+- Day 13 : CNN分類器架構：池化層、全連接層
+- Day 14 : CNN分類器架構：Batch Normalization
+- Day 15 : 訓練一個CNN分類器：Cifar10為例
+- Day 16 : 如何使用Data Augmentation
+- Day 17 : AlexNet
+- Day 18 : VGG16 and 19
+- Day 19 : InceptionV1-V3
+- Day 20 : ResNetV1-V2、InceptionV4、Inception-ResNet
+- Day 21 : Transfer learning
+- Day 22 : Breaking Captchas with a CNN
 
 #### Part 3 CNN 應用案例學習
 學習目前最常使用的 CNN 應用案例：YOLO 物件偵測實務完全上手  
